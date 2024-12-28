@@ -1,0 +1,14 @@
+Okay vamos a ver los algoritmos de Ordenamiento 
+
+O(N^2)
+- Intercambio
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+
+*****************
+O(N LOG N)
+- Merge Sort
+-Quicksort
+
+-HeapSort 
